@@ -1,0 +1,23 @@
+.p-relative {
+  position: relative;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.text-gray {
+  color: rgb(145, 145, 145);
+}
+
+pre {
+  color: rgb(145, 145, 145);
+}
